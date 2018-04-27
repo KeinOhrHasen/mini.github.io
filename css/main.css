@@ -1,0 +1,38 @@
+*::-webkit-input-placeholder {
+	color: #666;
+	opacity: 1;
+	font-family: "RobotoRegular", sans-serif;
+	font-size: 13px;
+}
+*:-moz-placeholder {
+	color: #666;
+	opacity: 1;
+	font-family: "RobotoRegular", sans-serif;
+	font-size: 13px;padding-left: 20px;
+}
+*::-moz-placeholder {
+	color: #666;
+	opacity: 1;
+	font-family: "RobotoRegular", sans-serif;
+	font-size: 13px;padding-left: 20px;
+}
+*:-ms-input-placeholder {
+	color: #666;
+	opacity: 1;
+	font-family: "RobotoRegular", sans-serif;
+	font-size: 13px;
+}
+
+body input:focus:required:invalid,
+body textarea:focus:required:invalid {
+	
+}
+body input:required:valid,
+body textarea:required:valid {
+	
+}
+body {
+	font-family: "RobotoRegular", sans-serif;
+	font-size: 13px;
+	color:#747474;
+}
