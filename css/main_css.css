@@ -17,7 +17,7 @@ hr {
   box-sizing: content-box;
   -webkit-transform: skewY(-3deg);
   transform: skewY(-3deg);
-  background-image: url("../../img/rain_forest.jpg");
+  background-image: url("../img/rain_forest.jpg");
   background-size: 1800px 200%;
   margin-top: 30px;
  }
@@ -51,7 +51,7 @@ footer {
 
 .top_container {
   margin-bottom: 100px;
-  background-image: url("../../img/main.jpg");
+  background-image: url("../img/main.jpg");
   background-size: 1500px 150%;
   margin-bottom: -75px;
 
